@@ -20,17 +20,9 @@
 }
 
 .nav__notification {
-    background-color: #FF6030;
-    color: white;
-    display: flex;
-    justify-content: center;
-    align-items: center;
     position: absolute;
     top: -25px;
     left: 20px;
-    width:30px;
-    height: 30px;
-    border-radius: 15px;
 }
 
 .nav__alert {

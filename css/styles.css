@@ -8,6 +8,7 @@
 @import "components/statusbar.css";
 @import "components/screenHeader.css";
 @import "components/userComponent.css";
+@import "components/badge.css";
 
 
 body {
@@ -16,3 +17,6 @@ body {
     Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
 }
 
+.main-screen{
+    padding: 0px var(--horizontal-space);
+}

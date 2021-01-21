@@ -46,3 +46,13 @@
 .user-component__column:last-child {
     color: rgba(0,0,0,0.4);
 }
+
+.user-component__column-chat{
+    display: flex;
+    flex-direction: column;
+}
+
+.user-component__column-chat span{
+    margin-bottom: 10px;
+}
+
