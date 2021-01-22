@@ -1,6 +1,6 @@
 
 .badge {
-    background-color: #FF6030;
+    background-color: var(--badge-color);
     color: white;
     display: flex;
     justify-content: center;
